@@ -1,4 +1,3 @@
-life_fnc_terror1.sqf
 _gen = _this select 0;
 _caller = _this select 1;
 _id = _this select 2;
